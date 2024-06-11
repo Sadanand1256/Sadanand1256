@@ -3,7 +3,7 @@
 Hello! I'm Sadanand Lonikar, a Full Stack Developer, with a passion for Frontend Development. I specialize in MERN Stack with PHP, MySql, and I enjoy exploring Web development
 ## Skills
 
-- **Programming Languages**: , Python,HTML, CSS, Javascript,Php,Mysql.
+- **Programming Languages**: , Python, HTML, CSS, Javascript ,PHP, SQL.
 - **Technologies**: Html, Css, Javascript, TailwindCss, , React, Bootstrap, Node.js, Express.js, Mongodb, MySql, .
 
 </p>
